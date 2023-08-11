@@ -15,3 +15,4 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)| [Code](./DFS/keys_and_rooms.py) | O(V+E) | O(V) | Medium |[Approach](https://leetcode.com/problems/keys-and-rooms/solutions/3894850/dfs-set-beats-98-python/) | DFS, Adjacency List
+547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)| [Code](./DFS/number_of_provinces.py) | O(N^2) | O(N) | Medium | [Approach](https://leetcode.com/problems/number-of-provinces/solutions/3895128/dfs-beats-99-python/) |DFS, Adjacency Matrix
