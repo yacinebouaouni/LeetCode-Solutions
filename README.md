@@ -1,7 +1,10 @@
 # LeetCode-Solutions
 
 
-
+## Binary Search
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) |[Code](./Binary-Search/guess_number.py) | O(log n) | O(1) | Easy | [Approach](https://leetcode.com/problems/guess-number-higher-or-lower/solutions/3904135/binary-search-beats-97-easy-python/) |Binary Search, Array
 
 ## Breadth-first search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
