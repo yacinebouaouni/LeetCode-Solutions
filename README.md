@@ -5,8 +5,8 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) |[Code](./Binary-Search/guess_number.py) | O(log n) | O(1) | Easy | [Approach](https://leetcode.com/problems/guess-number-higher-or-lower/solutions/3904135/binary-search-beats-97-easy-python/) |Binary Search, Array
-162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)| [Code](./Binary-Search/find_peak_element.py)| O(log n) | O(1) | Easy | [Approach](https://leetcode.com/problems/find-peak-element/solutions/3904317/binary-search-beats-94-o-log-n-python/) |Binary Search, Array
-
+162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)| [Code](./Binary-Search/find_peak_element.py)| O(log n) | O(1) | Medium | [Approach](https://leetcode.com/problems/find-peak-element/solutions/3904317/binary-search-beats-94-o-log-n-python/) |Binary Search, Array
+875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Code](./Binary-Search/koko_eating_bananas.py) | O(N log M) | O(1) | Medium | [Approach](https://leetcode.com/problems/koko-eating-bananas/solutions/3904582/binary-search-beats-90-easy/) | Binary Search, Array
 ## Breadth-first search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
