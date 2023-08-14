@@ -1,6 +1,11 @@
 # LeetCode-Solutions
 
 
+## Two Pointers
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Code](./Two-Pointers/move_zeroes.py) | O(n) | O(1) | Easy | [Approach](https://leetcode.com/problems/move-zeroes/solutions/3908894/two-pointers-optimal-python/) | Two Pointers, Array
+
 ## Binary Search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
