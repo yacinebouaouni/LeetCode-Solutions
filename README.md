@@ -1,5 +1,9 @@
 # LeetCode-Solutions
 
+## Hashmap
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+1679 | [Max Number of K-Sum Pair](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) | [Code](./Hashmap/max_number_k_sum_pairs.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/max-number-of-k-sum-pairs/solutions/3909166/hashmap-on-beats-98-python/) |Hashmap, Array
 
 ## Two Pointers
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
