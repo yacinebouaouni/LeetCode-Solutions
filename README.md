@@ -5,6 +5,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 283 | [Move Zeros](https://leetcode.com/problems/move-zeroes/description/) | [Code](./Two-Pointers/move_zeroes.py) | O(n) | O(1) | Easy | [Approach](https://leetcode.com/problems/move-zeroes/solutions/3908894/two-pointers-optimal-python/) | Two Pointers, Array
+392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Code](./Two-Pointers/is_subsequence.py) | O(n) | O(1) | Easy | [Approach](https://leetcode.com/problems/is-subsequence/solutions/3908976/two-pointers-optimal-python/) | Two Pointers, Array
 
 ## Binary Search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
