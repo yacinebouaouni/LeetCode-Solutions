@@ -4,7 +4,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) |[Code](./Sliding-Window/max_average_subarray_1.py) | O(N) | O(1) | Easy | [Approach](https://leetcode.com/problems/maximum-average-subarray-i/solutions/3913554/sliding-window-python-easy/) | Fixed Window, Array
-
+1004 | [Max Consicutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | [Code](./Sliding-Window/max_consecutive_ones_3.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/max-consecutive-ones-iii/solutions/3914086/sliding-window-optimal-linear-python/) | Sliding Window, Array
 ## Hashmap
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
