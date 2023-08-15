@@ -1,5 +1,10 @@
 # LeetCode-Solutions
 
+## Sliding Window
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) |[Code](./Sliding-Window/max_average_subarray_1.py) | O(N) | O(1) | Easy | [Approach](https://leetcode.com/problems/maximum-average-subarray-i/solutions/3913554/sliding-window-python-easy/) | Fixed Window, Array
+
 ## Hashmap
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -34,3 +39,13 @@
 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/)| [Code](./DFS/number_of_provinces.py) | O(N^2) | O(N) | Medium | [Approach](https://leetcode.com/problems/number-of-provinces/solutions/3895128/dfs-beats-99-python/) |DFS, Adjacency Matrix
 1466 | [Reorder Routes](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/description/?envType=study-plan-v2&envId=leetcode-75) | [Code](./DFS/reorder_routes.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/solutions/3899849/dfs-beats-98-recursive/) | DFS, Connection List
 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/description/) | [Code](./DFS/evaluate_division.py) | O(Q*(E+V)) | O(Q+E+V) | Medium | [Approach](https://leetcode.com/problems/evaluate-division/solutions/3900139/dfs-recursive-beats-97/) |DFS, Connection List
+
+
+
+
+-------
+# Ideas
+
+## Sliding Window
+* In a fixed length setting, try to update the quantity of interest (currentSum, Product ...) by adding and substracting. Don't compute the quantity from zero.
+
