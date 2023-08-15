@@ -5,6 +5,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) |[Code](./Sliding-Window/max_average_subarray_1.py) | O(N) | O(1) | Easy | [Approach](https://leetcode.com/problems/maximum-average-subarray-i/solutions/3913554/sliding-window-python-easy/) | Fixed Window, Array
 1004 | [Max Consicutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | [Code](./Sliding-Window/max_consecutive_ones_3.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/max-consecutive-ones-iii/solutions/3914086/sliding-window-optimal-linear-python/) | Sliding Window, Array
+1493 | [Longest Subarray of 1s after Deleting One element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/) | [Code](./Sliding-Window/longest_subarray_1s_after_deleting_element.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/solutions/3914414/sliding-window-o-n-time-o-1-space-python/) | Sliding Window, Array
 ## Hashmap
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
