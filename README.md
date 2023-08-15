@@ -48,4 +48,6 @@
 
 ## Sliding Window
 * In a fixed length setting, try to update the quantity of interest (currentSum, Product ...) by adding and substracting. Don't compute the quantity from zero.
+* In a fixed length setting, only one pointer is enough
+* In a sliding window, try using one pointer that is incremented +1 in a for loop and the second incremented when a condition is reached (e.g., max consicutive ones problem). Then stop incrementation when the condition is satisfied again.
 
