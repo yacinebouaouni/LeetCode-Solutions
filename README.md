@@ -19,6 +19,10 @@
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Code](./Two-Pointers/is_subsequence.py) | O(n) | O(1) | Easy | [Approach](https://leetcode.com/problems/is-subsequence/solutions/3908976/two-pointers-optimal-python/) | Two Pointers, Array
 1679 | [Max Number of K-Sum Pair](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) | [Code](./Two-Pointers/max_number_k_sum_pairs.py) | O(N log N) | O(1) | Medium | [Approach](https://leetcode.com/problems/max-number-of-k-sum-pairs/solutions/3909073/two-pointers-o-n-log-n-python/) |Two Pointers, Array
 
+## Prefix Sum
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+
 ## Binary Search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
