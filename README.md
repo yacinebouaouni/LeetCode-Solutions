@@ -25,6 +25,21 @@
 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [Code](./Prefix-Sum/find_pivot_index.py) | O(N) | O(1) | Easy | [Approach](https://leetcode.com/problems/find-pivot-index/solutions/3917963/prefix-sum-beats-97-python/) | Prefix Sum, Array
 1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)|[Code](./Prefix-Sum/find_highest_altitude.py)|O(N)|O(1)|Easy|[Approach](https://leetcode.com/problems/find-the-highest-altitude/solutions/3917925/prefix-sum-5-lines-solution-python/) | Prefix Sum, Array
 
+
+
+## Stack
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [Code](./Stack/decode_string.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/decode-string/solutions/3923506/stack-o-n-easy-python/) | Stack, String
+
+ 
+
+
+
+
+
+
+
 ## Binary Search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
