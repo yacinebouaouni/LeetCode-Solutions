@@ -30,7 +30,8 @@
 ## Stack
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [Code](./Stack/decode_string.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/decode-string/solutions/3923506/stack-o-n-easy-python/) | Stack, String
+394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [Code](./Stack/decode_string.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/decode-string/solutions/3923506/stack-o-n-easy-python/) | Stack, String
+735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/) | [Code](./Stack/asteroid_collision.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/asteroid-collision/solutions/3922466/clean-solution-beats-97-stack-python/) | Stack, Array
 
  
 
