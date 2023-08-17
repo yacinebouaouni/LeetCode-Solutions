@@ -75,3 +75,5 @@
 * In a fixed length setting, only one pointer is enough
 * In a sliding window, try using one pointer that is incremented +1 in a for loop and the second incremented when a condition is reached (e.g., max consicutive ones problem). Then stop incrementation when the condition is satisfied again.
 
+## Stack
+* Sometimes it's necessary to save the intermediate operations in the stack to be processed again just like [Decode String](./Stack/decode_string.py) problem.
