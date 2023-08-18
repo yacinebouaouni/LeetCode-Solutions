@@ -81,3 +81,6 @@
 
 ## Stack
 * Sometimes it's necessary to save the intermediate operations in the stack to be processed again just like [Decode String](./Stack/decode_string.py) problem.
+
+## Queues
+* Some problem require two queues to compare the oldest occurences of each class like [Dota2 Senate]()
