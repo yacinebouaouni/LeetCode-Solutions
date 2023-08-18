@@ -35,6 +35,10 @@
 2390 | [Removing Stars from String](https://leetcode.com/problems/removing-stars-from-a-string/description/) | [Code](./Stack/remove_stars_string.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/removing-stars-from-a-string/solutions/3926167/stack-beats-95-easy-python/)| Stack, String
  
 
+## Queue
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Queue/dota_senate.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/dota2-senate/solutions/3926123/queue-solution-beats-97-python/?envType=study-plan-v2&envId=leetcode-75) | Queue, Array
 
 
 
