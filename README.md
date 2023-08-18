@@ -32,7 +32,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [Code](./Stack/decode_string.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/decode-string/solutions/3923506/stack-o-n-easy-python/) | Stack, String
 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/) | [Code](./Stack/asteroid_collision.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/asteroid-collision/solutions/3922466/clean-solution-beats-97-stack-python/) | Stack, Array
-
+2390 | [Removing Stars from String](https://leetcode.com/problems/removing-stars-from-a-string/description/) | [Code](./Stack/remove_stars_string.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/removing-stars-from-a-string/solutions/3926167/stack-beats-95-easy-python/)| Stack, String
  
 
 
