@@ -41,6 +41,23 @@
 649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Queue/dota_senate.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/dota2-senate/solutions/3926123/queue-solution-beats-97-python/?envType=study-plan-v2&envId=leetcode-75) | Queue, Array
 
 
+## Linked Lists
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Code](./Linked-List/odd_even_ll.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/odd-even-linked-list/solutions/3933066/two-pointers-easy-python/) | Linked List, Two Pointers
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
