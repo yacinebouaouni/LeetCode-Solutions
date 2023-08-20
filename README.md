@@ -45,6 +45,8 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Code](./Linked-List/odd_even_ll.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/odd-even-linked-list/solutions/3933066/two-pointers-easy-python/) | Linked List, Two Pointers
+206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Code](./Linked-List/reverse_ll.py) | O(N) | O(1) | Easy | [Approach](https://leetcode.com/problems/reverse-linked-list/solutions/3936488/two-pointers-beats-95-python/) | Linked List, Two Pointers
+
 
 
 
