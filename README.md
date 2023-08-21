@@ -93,8 +93,7 @@
 ## Trees
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-872 |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) |[Code](./Tree/leaf_similar_trees.py) | O(N) |
-O(N)| Easy |[Approach](https://leetcode.com/problems/leaf-similar-trees/solutions/3941313/dfs-solution-recursive-python/)|DFS, Recursion
+872 |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) |[Code](./Tree/leaf_similar_trees.py) | O(N) | O(N)| Easy |[Approach](https://leetcode.com/problems/leaf-similar-trees/solutions/3941313/dfs-solution-recursive-python/)|DFS, Recursion
 -------
 # Ideas
 
