@@ -94,6 +94,18 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 872 |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) |[Code](./Tree/leaf_similar_trees.py) | O(N) | O(N)| Easy |[Approach](https://leetcode.com/problems/leaf-similar-trees/solutions/3941313/dfs-solution-recursive-python/)|DFS, Recursion
+1448 | [Count Good Nodes in binary tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)| [Code](./Tree/count_good_nodes.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/count-good-nodes-in-binary-tree/solutions/3941374/dfs-beats-99-recursive-python/) | DFS, Recursion
+
+
+
+
+
+
+
+
+
+
+
 -------
 # Ideas
 
@@ -111,3 +123,7 @@
 ## Linked Lists
 * Reversing a LL requires 3 pointers: current, next and previous
 * Sometimes you need to reverse a LL to 
+
+
+## Binary Tree
+* When using a DFS with a BT sometimes you need extra variables in the recursive function like `count` or `sup` in [Count Good Nodes in binary tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/). These variables can be returned in one way or another by the recursive function.
