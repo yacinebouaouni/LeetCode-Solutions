@@ -71,6 +71,7 @@
 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)| [Code](./Binary-Search/find_peak_element.py)| O(log n) | O(1) | Medium | [Approach](https://leetcode.com/problems/find-peak-element/solutions/3904317/binary-search-beats-94-o-log-n-python/) |Binary Search, Array
 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Code](./Binary-Search/koko_eating_bananas.py) | O(N log M) | O(1) | Medium | [Approach](https://leetcode.com/problems/koko-eating-bananas/solutions/3904582/binary-search-beats-90-easy/) | Binary Search, Array
 2300 | [Successful Pairs of Spells](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) | [Code](./Binary-Search/successful_pairs.py) | O((M+N) log M) | O(N) | Medium | [Approach](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/solutions/3904876/binary-search-python-intuitive/) |Binary Search, Array
+
 ## Breadth-first search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -89,7 +90,11 @@
 
 
 
-
+## Trees
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+872 |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) |[Code](./Tree/leaf_similar_trees.py) | O(N) |
+O(N)| Easy |[Approach](https://leetcode.com/problems/leaf-similar-trees/solutions/3941313/dfs-solution-recursive-python/)|DFS, Recursion
 -------
 # Ideas
 
@@ -103,3 +108,7 @@
 
 ## Queues
 * Some problem require two queues to compare the oldest occurences of each class like [Dota2 Senate]()
+
+## Linked Lists
+* Reversing a LL requires 3 pointers: current, next and previous
+* Sometimes you need to reverse a LL to 
