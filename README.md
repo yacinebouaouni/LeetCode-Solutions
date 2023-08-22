@@ -96,9 +96,7 @@
 872 |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) |[Code](./Tree/leaf_similar_trees.py) | O(N) | O(N)| Easy |[Approach](https://leetcode.com/problems/leaf-similar-trees/solutions/3941313/dfs-solution-recursive-python/)|DFS, Recursion
 1448 | [Count Good Nodes in binary tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)| [Code](./Tree/count_good_nodes.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/count-good-nodes-in-binary-tree/solutions/3941374/dfs-beats-99-recursive-python/) | DFS, Recursion
 1372 | [Longest Zigzag Path in Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/) | [Code](./Tree/longest_zigzag_path.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/solutions/3947399/dfs-approach-explained-python/) | DFS, BT
-
-
-
+236 | [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Code](./Tree/lowest_common_ancestor.py) | O(N) | O(Height) | Medium | [Approach](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/3947623/dfs-beats-99-recursive-python/) | DFS, Binary Tree
 
 
 
@@ -127,5 +125,7 @@
 
 ## Binary Tree
 * When using a DFS with a BT sometimes you need extra variables in the recursive function like `count` or `sup` in [Count Good Nodes in binary tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/). These variables can be returned in one way or another by the recursive function.
-* When you need to return a value like `the longest path` using a DFS, it's a good strategy to use a class attribute to keep track of that variable. (Check [Longest Zigzag Path in Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/))
+* When you need to return a value like `the longest path` using a DFS, it's a good strategy to use a class attribute to keep track of that variable. (Check [Longest Zigzag Path in Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/) and [Lowest Common Ancestor]())
 * It's helpful to use extra variables as arguments of the DFS function when we have multiple choices like either go left or right. (Check [Longest Zigzag Path in Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/))
+* Be careful, sometime the call stack of the DFS is equal to the height of the tree which is log2(N) when it's balanced and N worst case.
+* In some problems, you need to first return the value for both left and right DFS then do the computation for the current node (Check [Lowest Common Ancestor]())
