@@ -95,7 +95,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 872 |[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description/) |[Code](./Tree/leaf_similar_trees.py) | O(N) | O(N)| Easy |[Approach](https://leetcode.com/problems/leaf-similar-trees/solutions/3941313/dfs-solution-recursive-python/)|DFS, Recursion
 1448 | [Count Good Nodes in binary tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)| [Code](./Tree/count_good_nodes.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/count-good-nodes-in-binary-tree/solutions/3941374/dfs-beats-99-recursive-python/) | DFS, Recursion
-
+1372 | [Longest Zigzag Path in Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/) | [Code](./Tree/longest_zigzag_path.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/solutions/3947399/dfs-approach-explained-python/) | DFS, BT
 
 
 
