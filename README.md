@@ -127,3 +127,5 @@
 
 ## Binary Tree
 * When using a DFS with a BT sometimes you need extra variables in the recursive function like `count` or `sup` in [Count Good Nodes in binary tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/). These variables can be returned in one way or another by the recursive function.
+* When you need to return a value like `the longest path` using a DFS, it's a good strategy to use a class attribute to keep track of that variable. (Check [Longest Zigzag Path in Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/))
+* It's helpful to use extra variables as arguments of the DFS function when we have multiple choices like either go left or right. (Check [Longest Zigzag Path in Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/))
