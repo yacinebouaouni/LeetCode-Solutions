@@ -97,6 +97,7 @@
 1448 | [Count Good Nodes in binary tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)| [Code](./Tree/count_good_nodes.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/count-good-nodes-in-binary-tree/solutions/3941374/dfs-beats-99-recursive-python/) | DFS, Recursion
 1372 | [Longest Zigzag Path in Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/) | [Code](./Tree/longest_zigzag_path.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/solutions/3947399/dfs-approach-explained-python/) | DFS, BT
 236 | [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Code](./Tree/lowest_common_ancestor.py) | O(N) | O(Height) | Medium | [Approach](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/3947623/dfs-beats-99-recursive-python/) | DFS, Binary Tree
+1161 |[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Tree/max_level_sum.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/solutions/3950553/bfs-iterative-python/?envType=study-plan-v2&envId=leetcode-75) | BFS, Binary Tree
 
 
 
