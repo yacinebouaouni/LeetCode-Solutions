@@ -130,3 +130,6 @@
 * It's helpful to use extra variables as arguments of the DFS function when we have multiple choices like either go left or right. (Check [Longest Zigzag Path in Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/description/))
 * Be careful, sometime the call stack of the DFS is equal to the height of the tree which is log2(N) when it's balanced and N worst case.
 * In some problems, you need to first return the value for both left and right DFS then do the computation for the current node (Check [Lowest Common Ancestor]())
+### BT BFS
+* It's more convenient and optimal to use an iterative approach with BFS
+* Doing computations on each level is possible by saving the length of the queue and then looping on that length and adding children. This insures that we loop only through the elements of the present level.
