@@ -133,3 +133,7 @@
 ### BT BFS
 * It's more convenient and optimal to use an iterative approach with BFS
 * Doing computations on each level is possible by saving the length of the queue and then looping on that length and adding children. This insures that we loop only through the elements of the present level.
+
+
+### Binary Search Tree
+* You need to take advantage of the property of the BST by dividing the search space by two and reducing complexity to log n.
