@@ -99,7 +99,7 @@
 236 | [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [Code](./Tree/lowest_common_ancestor.py) | O(N) | O(Height) | Medium | [Approach](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solutions/3947623/dfs-beats-99-recursive-python/) | DFS, Binary Tree
 1161 |[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Tree/max_level_sum.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/solutions/3950553/bfs-iterative-python/?envType=study-plan-v2&envId=leetcode-75) | BFS, Binary Tree
 199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |[Code](./Tree/binary_tree_right_side_view.py)| O(N) | O(N) | Medium |[Approach](https://leetcode.com/problems/binary-tree-right-side-view/solutions/3950173/bfs-iterative-python/) | BFS, Binary Tree
-
+450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) |[Code](./Tree/delete_node_bst.py) | O(log N) | O(log N) | Medium | [Approach](https://leetcode.com/problems/delete-node-in-a-bst/solutions/3954917/recursive-binary-search-tree-python/) | BST
 
 
 
