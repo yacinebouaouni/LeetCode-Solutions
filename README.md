@@ -100,7 +100,7 @@
 1161 |[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Tree/max_level_sum.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/solutions/3950553/bfs-iterative-python/?envType=study-plan-v2&envId=leetcode-75) | BFS, Binary Tree
 199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |[Code](./Tree/binary_tree_right_side_view.py)| O(N) | O(N) | Medium |[Approach](https://leetcode.com/problems/binary-tree-right-side-view/solutions/3950173/bfs-iterative-python/) | BFS, Binary Tree
 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) |[Code](./Tree/delete_node_bst.py) | O(log N) | O(log N) | Medium | [Approach](https://leetcode.com/problems/delete-node-in-a-bst/solutions/3954917/recursive-binary-search-tree-python/) | BST
-
+700 | [Search in a BST](https://leetcode.com/problems/search-in-a-binary-search-tree/?envType=study-plan-v2&envId=leetcode-75) |[Code](./Tree/search_bst.py) | O(log N) | O(log N) | Easy | [Approach](https://leetcode.com/problems/search-in-a-binary-search-tree/solutions/3954309/dfs-beats-96-recursive/?envType=study-plan-v2&envId=leetcode-75) | BST
 
 
 
