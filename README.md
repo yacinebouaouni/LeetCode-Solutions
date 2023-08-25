@@ -162,3 +162,8 @@
 
 ### Binary Search Tree
 * You need to take advantage of the property of the BST by dividing the search space by two and reducing complexity to log n.
+
+
+## Bit Manipulation
+* In python it might be helpful to use the function `bin` to compute binary representation
+* Kernighan's Algorithm (number & number-1) is used for counting set bits in O(log n)
