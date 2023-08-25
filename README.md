@@ -105,6 +105,31 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+## Bit Manipulation
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [Code](./Bit-Manipulation/counting_bits.py) | O(N) | O(N) | Easy | [Approach](https://leetcode.com/problems/counting-bits/solutions/3958724/bit-manipulation-beats-99-66-o-n-python/) | Bit Manip
+ 
+
+
+
+
+
+
+
+
+
 -------
 # Ideas
 
