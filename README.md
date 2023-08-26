@@ -170,3 +170,4 @@
 ## Bit Manipulation
 * In python it might be helpful to use the function `bin` to compute binary representation
 * Kernighan's Algorithm (number & number-1) is used for counting set bits in O(log n)
+* XOR can be used to compare two numbers. It has a property where a xor a = 0. Thus, it helps solving problems with missing value [Missing Number](https://leetcode.com/problems/missing-number/description/).
