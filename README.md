@@ -120,7 +120,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [Code](./Bit-Manipulation/counting_bits.py) | O(N) | O(N) | Easy | [Approach](https://leetcode.com/problems/counting-bits/solutions/3958724/bit-manipulation-beats-99-66-o-n-python/) | Bit Manip
- 
+136 |[Single Number](https://leetcode.com/problems/single-number/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Bit-Manipulation/single_number.py) | O(N) | O(1) | Easy | [Approach](https://leetcode.com/problems/single-number/solutions/3962862/xor-solution-bit-manipulation-python/?envType=study-plan-v2&envId=leetcode-75) | Bit Manip, XOR
 
 
 
