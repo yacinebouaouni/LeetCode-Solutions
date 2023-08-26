@@ -121,6 +121,8 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | [Code](./Bit-Manipulation/counting_bits.py) | O(N) | O(N) | Easy | [Approach](https://leetcode.com/problems/counting-bits/solutions/3958724/bit-manipulation-beats-99-66-o-n-python/) | Bit Manip
 136 |[Single Number](https://leetcode.com/problems/single-number/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Bit-Manipulation/single_number.py) | O(N) | O(1) | Easy | [Approach](https://leetcode.com/problems/single-number/solutions/3962862/xor-solution-bit-manipulation-python/?envType=study-plan-v2&envId=leetcode-75) | Bit Manip, XOR
+1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Bit-Manipulation/min_flips_aorbc.py) | O(log N) | O(1) | Medium | [Approach](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/solutions/3963002/1-line-solution-beats-98-python/?envType=study-plan-v2&envId=leetcode-75) | Bit Manip 
+
 
 
 
