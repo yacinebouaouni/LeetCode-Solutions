@@ -178,3 +178,8 @@
 * In python it might be helpful to use the function `bin` to compute binary representation
 * Kernighan's Algorithm (number & number-1) is used for counting set bits in O(log n)
 * XOR can be used to compare two numbers. It has a property where a xor a = 0. Thus, it helps solving problems with missing value [Missing Number](https://leetcode.com/problems/missing-number/description/).
+
+
+## Intervals
+* It's often usefull to sort the intervals by start or by end (sometimes both work).
+* A greedy approach works well with problems that detect overlapping intervals like [Minimum Number of Arrows to Burst Balloons]() and [Non Overlapping Intervals](). This approach works by iterating through intervals and comparing something like start with previous end and update the previous end accordingly.
