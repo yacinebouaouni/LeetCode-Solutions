@@ -13,43 +13,20 @@ class Solution:
             return intervals
 
         output = []
-        start, end = newInterval
-        startInterval = endInterval = None
+        
         i = 0
-        while i < len(intervals):
-            if intervals[i][1] < start:
-                output.append(intervals[i])
-                i += 1
-
-            elif intervals[i][1] > start and intervals[i][0] > start:
-                startInterval = start
-                break
-
-            elif intervals[i][1] >= start >= intervals[i][0]:
-                startInterval = intervals[i][0]
-                break
+        while i < len(intervals) and intervals[i][1] < newInterval[0]:
+            output.append(intervals[i])
+            i += 1
 
 
-        while i < len(intervals):
-            if end > intervals[i][1] and i < len(intervals)-1:
-                i += 1
+        while i < len(intervals) and newInterval[1] >= intervals[i][0]:
+            newInterval[0] = min(newInterval[0], intervals[i][0])
+            newInterval[1] = max(newInterval[1], intervals[i][1])
+            i += 1
 
-            elif end > intervals[i][1] and i == len(intervals)-1:
-                endInterval = end
-                i += 1
-                break
-
-            
-            elif intervals[i][0] <= end <= intervals[i][1]:
-                endInterval = intervals[i][1]
-                i += 1
-                break
-            else:
-                endInterval = end
-                break
-
-        output.append([startInterval, endInterval])
-
+        output.append(newInterval)
+        
         while i<len(intervals):
             output.append(intervals[i])
             i+=1
