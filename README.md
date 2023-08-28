@@ -135,7 +135,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 435 | [Non-Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Intervals/non_overlapping_intervals.py) | O(NlogN) | O(1) | Medium | [Approach](https://leetcode.com/problems/non-overlapping-intervals/solutions/3967255/greedy-o-nlogn-python/?envType=study-plan-v2&envId=leetcode-75) | Greedy, Sort
 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Intervals/min_num_arrows_balloons.py) | O(NlogN) | O(1) | Medium | [Approach](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/3967445/sort-greedy-o-nlogn-python/?envType=study-plan-v2&envId=leetcode-75) | Greedy, Sort
-
+57 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [Code](./Intervals/insert_interval.py) | O(N) | O(N) | Medium | [Approach]() | Greedy, Sort
 
 
 
