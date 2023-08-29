@@ -183,3 +183,5 @@
 ## Intervals
 * It's often usefull to sort the intervals by start or by end (sometimes both work).
 * A greedy approach works well with problems that detect overlapping intervals like [Minimum Number of Arrows to Burst Balloons]() and [Non Overlapping Intervals](). This approach works by iterating through intervals and comparing something like start with previous end and update the previous end accordingly.
+* After 4 medium problems and 1 hard it's pretty clear that we always need sorting. Sometimes sort by interval size like in [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/).
+* Binary search can be used when we have intervals and another set of queries, but it's a less efficient approach => Future Work: Use Heap
