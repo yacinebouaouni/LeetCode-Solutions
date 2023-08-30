@@ -140,6 +140,22 @@
 1851 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/) |[Code](./Intervals/min_interval_include_query.py) | O(n*qlogq) | O(n) | Hard |[Approach](https://leetcode.com/problems/minimum-interval-to-include-each-query/solutions/3977707/binary-search-sorting-ez-python/) | Binary Search, Sort
 
 
+
+## Greedy
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | [Code](./Greedy/can_place_flowers.py) | O(n) | O(1) | Easy | [Approach](https://leetcode.com/problems/can-place-flowers/solutions/3982348/iterative-greedy-easy-python/?envType=study-plan-v2&envId=leetcode-75) | Greedy, Array
+
+
+
+
+
+
+
+
+
+
+
 -------
 # Ideas
 
