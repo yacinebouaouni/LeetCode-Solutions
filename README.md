@@ -154,7 +154,10 @@
 
 
 
-
+## String
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Code](./String/reverse_words_string.py) | O(N) |O(1) | Medium |[Approach](https://leetcode.com/problems/reverse-words-in-a-string/solutions/3984895/1-line-solution-beats-99-6-python/) | String
 
 
 
