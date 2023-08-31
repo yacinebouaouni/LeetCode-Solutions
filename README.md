@@ -19,6 +19,10 @@
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Code](./Two-Pointers/is_subsequence.py) | O(n) | O(1) | Easy | [Approach](https://leetcode.com/problems/is-subsequence/solutions/3908976/two-pointers-optimal-python/) | Two Pointers, Array
 1679 | [Max Number of K-Sum Pair](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) | [Code](./Two-Pointers/max_number_k_sum_pairs.py) | O(N log N) | O(1) | Medium | [Approach](https://leetcode.com/problems/max-number-of-k-sum-pairs/solutions/3909073/two-pointers-o-n-log-n-python/) |Two Pointers, Array
 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) |[Code](./Two-Pointers/reverse_vowels.py) | O(n) | O(n) | Easy | [Approach](https://leetcode.com/problems/reverse-vowels-of-a-string/solutions/3982277/two-pointer-beats-96-python/) | Two Pointers, Array
+334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/description/)|[Code](./Two-Pointers/increasing_triplet_subsequence.py) | O(N) | O(1) | Medium |[Approach](https://leetcode.com/problems/increasing-triplet-subsequence/solutions/3985215/two-pointers-beats-96-python/) | Two Pointers, Array
+
+
+
 ## Prefix Sum
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
