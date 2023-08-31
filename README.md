@@ -158,7 +158,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Code](./String/reverse_words_string.py) | O(N) |O(1) | Medium |[Approach](https://leetcode.com/problems/reverse-words-in-a-string/solutions/3984895/1-line-solution-beats-99-6-python/) | String
-
+1768 |[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) |[Code](./String/merge_alternately.py)| O(n1+n2) | O(n1+n2) | Easy | [Approach]() | String
 
 
 
@@ -208,3 +208,7 @@
 * A greedy approach works well with problems that detect overlapping intervals like [Minimum Number of Arrows to Burst Balloons]() and [Non Overlapping Intervals](). This approach works by iterating through intervals and comparing something like start with previous end and update the previous end accordingly.
 * After 4 medium problems and 1 hard it's pretty clear that we always need sorting. Sometimes sort by interval size like in [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/).
 * Binary search can be used when we have intervals and another set of queries, but it's a less efficient approach => Future Work: Use Heap
+
+
+## String
+* 
