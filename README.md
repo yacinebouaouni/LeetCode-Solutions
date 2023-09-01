@@ -161,6 +161,10 @@
 1768 |[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) |[Code](./String/merge_alternately.py)| O(n1+n2) | O(n1+n2) | Easy | [Approach]() | String
 
 
+## Heap
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+2542 |[Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/) | [Code](./Heap/max_subsequence_score.py) | O(nlogn + nlogk) | O(n+k) | Medium |[Approach](https://leetcode.com/problems/maximum-subsequence-score/solutions/3988470/min-heap-beats-97-python/) | Min Heap
 
 
 -------
