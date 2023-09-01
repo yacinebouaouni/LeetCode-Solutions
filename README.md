@@ -214,5 +214,5 @@
 * Binary search can be used when we have intervals and another set of queries, but it's a less efficient approach => Future Work: Use Heap
 
 
-## String
-* 
+## Heap
+* In problems like [Maximum Subsequence Score]() it's usefull to zip and sort the two arrays. The sorting order is important.
