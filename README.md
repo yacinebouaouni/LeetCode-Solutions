@@ -216,3 +216,4 @@
 
 ## Heap
 * In problems like [Maximum Subsequence Score]() it's usefull to zip and sort the two arrays. The sorting order is important.
+* When we try to track the minimum in two sides of an array => Use two heaps
