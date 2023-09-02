@@ -165,7 +165,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 2542 |[Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/description/) | [Code](./Heap/max_subsequence_score.py) | O(nlogn + nlogk) | O(n+k) | Medium |[Approach](https://leetcode.com/problems/maximum-subsequence-score/solutions/3988470/min-heap-beats-97-python/) | Min Heap
-
+2462 | [Total Cost to Hire k Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/description/) |[Code](./Heap/total_cost_k_workers.py) | O(k logC) | O(C) | Medium |[Approach](https://leetcode.com/problems/total-cost-to-hire-k-workers/solutions/3993493/2x-min-heap-beats-90-python/) | Min Heap x 2
 
 -------
 # Ideas
