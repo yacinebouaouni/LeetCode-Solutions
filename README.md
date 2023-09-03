@@ -238,3 +238,7 @@
 ## Heap
 * In problems like [Maximum Subsequence Score]() it's usefull to zip and sort the two arrays. The sorting order is important.
 * When we try to track the minimum in two sides of an array => Use two heaps
+
+## Dynamic Programming
+* Some problems are easier to solve in a bottom-up approach (iterative) and other in a top-down approach (recursive).
+* The bottom-up approach is based on tabulation. It starts with base case, iterates, saves results in a table and continue.
