@@ -159,7 +159,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Code](./String/reverse_words_string.py) | O(N) |O(1) | Medium |[Approach](https://leetcode.com/problems/reverse-words-in-a-string/solutions/3984895/1-line-solution-beats-99-6-python/) | String
 1768 |[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) |[Code](./String/merge_alternately.py)| O(n1+n2) | O(n1+n2) | Easy | [Approach]() | String
-
+1071 |[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) |[Code](./String/greatest_common_divisor.py) | O(n) | O(1) | Easy |[Approach](https://leetcode.com/problems/greatest-common-divisor-of-strings/solutions/4007438/easy-pgcd-solution-beats-97-5-no-extra-memory-python/) | PGCD 
 
 ## Heap
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
@@ -242,3 +242,7 @@
 ## Dynamic Programming
 * Some problems are easier to solve in a bottom-up approach (iterative) and other in a top-down approach (recursive).
 * The bottom-up approach is based on tabulation. It starts with base case, iterates, saves results in a table and continue.
+
+
+## Math
+* To compute PGCD use the function math.gcd(x1,x2)
