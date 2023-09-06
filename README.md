@@ -160,6 +160,7 @@
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Code](./String/reverse_words_string.py) | O(N) |O(1) | Medium |[Approach](https://leetcode.com/problems/reverse-words-in-a-string/solutions/3984895/1-line-solution-beats-99-6-python/) | String
 1768 |[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) |[Code](./String/merge_alternately.py)| O(n1+n2) | O(n1+n2) | Easy | [Approach]() | String
 1071 |[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) |[Code](./String/greatest_common_divisor.py) | O(n) | O(1) | Easy |[Approach](https://leetcode.com/problems/greatest-common-divisor-of-strings/solutions/4007438/easy-pgcd-solution-beats-97-5-no-extra-memory-python/) | PGCD 
+443 | [String Compression](https://leetcode.com/problems/string-compression/description/) |[Code](./String/string_compression.py)| O(n)|O(1) | Medium |[Approach](https://leetcode.com/problems/string-compression/solutions/4011712/linear-time-solution-beats-86-python/) | Iterative
 
 ## Heap
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
