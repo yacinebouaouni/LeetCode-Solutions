@@ -175,6 +175,7 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Dynamic-Programming/min_cost_climbing_stairs.py) | O(n) | O(n) | Easy | [Approach](https://leetcode.com/problems/min-cost-climbing-stairs/solutions/3997947/dp-beats-97-bottom-up-iterative/?envType=study-plan-v2&envId=leetcode-75)| DP, Bottom-up
 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Dynamic-Programming/n_tribonacci_number.py) | O(n) | O(1) | Easy |[Approach](https://leetcode.com/problems/n-th-tribonacci-number/solutions/3997854/iterative-beats-99-python/?envType=study-plan-v2&envId=leetcode-75) | Fibonacci
+714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) |[Code](./Dynamic-Programming/best_time_buy_sell_stock.py) | O(n) | O(1) | Medium | [Approach](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/4015193/dp-bottom-up-o-n-beats-92-python/) | DP, Iterative
 
 
 
