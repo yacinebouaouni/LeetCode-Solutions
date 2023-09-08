@@ -186,8 +186,10 @@
 
 
 
-
-
+## Trie
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/) |[Code](./Trie/search_suggestions_system.py) | O(n logn + mn) | O(m+n) | Medium | [Approach](https://leetcode.com/problems/search-suggestions-system/solutions/4019595/quick-simple-solution-in-python-no-trie/) 
 
 
 
