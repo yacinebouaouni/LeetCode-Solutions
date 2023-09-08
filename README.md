@@ -255,3 +255,8 @@
 
 ## Math
 * To compute PGCD use the function math.gcd(x1,x2)
+
+
+## Monotonic Stack
+* This stack is monotonic (decreasing or increasing). It serves in problems where we are looking for the next largest or lowest element in a list.
+* It's often helpful to store the index of the elements alongside its value in the monotonic stack to compute for example the span.
