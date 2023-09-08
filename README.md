@@ -63,7 +63,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) |[Code](./Stack/online_stock_span.py) |O(n) |O(n) |Medium |[Approach](https://leetcode.com/problems/online-stock-span/solutions/4018332/monotonic-stack-python/) | Decreasing
-
+739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/?envType=study-plan-v2&envId=leetcode-75) |[Code](./Stack/daily_temp.py) | O(n) | O(n) | Medium | [Approach](https://leetcode.com/problems/daily-temperatures/solutions/4017964/monotonic-stack-ez-python/?envType=study-plan-v2&envId=leetcode-75) | Decreasing
 
 
 
