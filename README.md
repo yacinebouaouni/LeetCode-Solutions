@@ -177,13 +177,14 @@
 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Heap/smallest_number_infinite_set.py) |O(logk) / O(k logk) | O(k) | Medium |[Approach](https://leetcode.com/problems/smallest-number-in-infinite-set/solutions/3992819/min-heap-beats-95-t-and-99-m-python/?envType=study-plan-v2&envId=leetcode-75) | Min Heap
 23 | [Merge K sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Code](./Heap/merge_k_sorted.py) | O(n logn) | O(n) | Hard | [Approach](https://leetcode.com/problems/merge-k-sorted-lists/solutions/4019889/min-heap-beats-97-runtime-easy-python/) | Min Heap
 
+
 ## Dynamic Programming
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Dynamic-Programming/min_cost_climbing_stairs.py) | O(n) | O(n) | Easy | [Approach](https://leetcode.com/problems/min-cost-climbing-stairs/solutions/3997947/dp-beats-97-bottom-up-iterative/?envType=study-plan-v2&envId=leetcode-75)| DP, Bottom-up
 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Dynamic-Programming/n_tribonacci_number.py) | O(n) | O(1) | Easy |[Approach](https://leetcode.com/problems/n-th-tribonacci-number/solutions/3997854/iterative-beats-99-python/?envType=study-plan-v2&envId=leetcode-75) | Fibonacci
 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) |[Code](./Dynamic-Programming/best_time_buy_sell_stock.py) | O(n) | O(1) | Medium | [Approach](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/4015193/dp-bottom-up-o-n-beats-92-python/) | DP, Iterative
-
+120 |[Triangle](https://leetcode.com/problems/triangle/description/) | [Code](./Dynamic-Programming/triangle.py) | O(n^2) | O(n) | Medium |[Approach](https://leetcode.com/problems/triangle/solutions/4024012/dp-tabulation-beats-99-5-runtime-python/) | DP, Iterative
 
 
 ## Trie
