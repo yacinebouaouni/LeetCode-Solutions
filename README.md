@@ -186,7 +186,7 @@
 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) |[Code](./Dynamic-Programming/best_time_buy_sell_stock.py) | O(n) | O(1) | Medium | [Approach](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/4015193/dp-bottom-up-o-n-beats-92-python/) | DP, Iterative
 120 |[Triangle](https://leetcode.com/problems/triangle/description/) | [Code](./Dynamic-Programming/triangle.py) | O(n^2) | O(n) | Medium |[Approach](https://leetcode.com/problems/triangle/solutions/4024012/dp-tabulation-beats-99-5-runtime-python/) | DP, Iterative
 139 |[Word Break](https://leetcode.com/problems/word-break/description/) |[Code Iterative](./Dynamic-Programming/word_break_iterative.py) | O(n^2) | O(n) | Medium |[Approach1](https://leetcode.com/problems/word-break/solutions/4023910/dp-bottom-up-tabular-beats-96-python/) [Approach2](https://leetcode.com/problems/word-break/solutions/4023873/dp-memorization-beats-99-runtime-python/) | DP, Iterative, Recursive
-
+64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Code](./Dynamic-Programming/min_path_sum.py) | O(n*m) | O(n*m) | Medium |[Approach](https://leetcode.com/problems/minimum-path-sum/solutions/4028253/dp-tabular-beats-96-python/) | Iterative
 ## Trie
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
