@@ -187,6 +187,14 @@
 120 |[Triangle](https://leetcode.com/problems/triangle/description/) | [Code](./Dynamic-Programming/triangle.py) | O(n^2) | O(n) | Medium |[Approach](https://leetcode.com/problems/triangle/solutions/4024012/dp-tabulation-beats-99-5-runtime-python/) | DP, Iterative
 139 |[Word Break](https://leetcode.com/problems/word-break/description/) |[Code Iterative](./Dynamic-Programming/word_break_iterative.py) | O(n^2) | O(n) | Medium |[Approach1](https://leetcode.com/problems/word-break/solutions/4023910/dp-bottom-up-tabular-beats-96-python/) [Approach2](https://leetcode.com/problems/word-break/solutions/4023873/dp-memorization-beats-99-runtime-python/) | DP, Iterative, Recursive
 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/)|[Code](./Dynamic-Programming/min_path_sum.py) | O(n*m) | O(n*m) | Medium |[Approach](https://leetcode.com/problems/minimum-path-sum/solutions/4028253/dp-tabular-beats-96-python/) | Iterative
+63 | [Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/description/) | [Code](./Dynamic-Programming/unique_paths_2.py) | O(m*n) | O(m*n) | Medium | [Approach](https://leetcode.com/problems/unique-paths-ii/solutions/4028634/dp-tabular-beats-99-explained-python/) | Iterative
+
+
+
+
+
+
+
 ## Trie
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
