@@ -266,6 +266,8 @@
 * Some problems are easier to solve in a bottom-up approach (iterative) and other in a top-down approach (recursive).
 * The bottom-up approach is based on tabulation. It starts with base case, iterates, saves results in a table and continue.
 
+## Backtracking
+* Sometimes it's usefull to add a condition to stop backtracking early like when you don't have enough elements to finish a combination of a certain length [Combinations]()
 
 ## Math
 * To compute PGCD use the function math.gcd(x1,x2)
