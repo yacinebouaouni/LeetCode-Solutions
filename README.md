@@ -192,7 +192,10 @@
 97 |[Interleaving String](https://leetcode.com/problems/interleaving-string/) |[Code](./Dynamic-Programming/interleaving_string.py) | O(n1*n2) | O(n1*n2)| |Medium |[Approach](https://leetcode.com/problems/interleaving-string/solutions/4033112/dp-memo-recursive-beats-97-python/) | Recursive
 
 
-
+## Backtracking
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+77 | [Combinations](https://leetcode.com/problems/combinations/description/) |[Code](./Backtracking/combinations.py) | O(C(n,k)) | O(C(n,k)+k) | Medium |[Approach](https://leetcode.com/problems/combinations/solutions/4037470/backtracking-recursion-python/) | Recursive
 
 
 ## Trie
