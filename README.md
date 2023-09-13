@@ -196,7 +196,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 77 | [Combinations](https://leetcode.com/problems/combinations/description/) |[Code](./Backtracking/combinations.py) | O(C(n,k)) | O(C(n,k)+k) | Medium |[Approach](https://leetcode.com/problems/combinations/solutions/4037470/backtracking-recursion-python/) | Recursive
-
+22 |[Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) |[Code](./Backtracking/generate_parenthesis.py) | O(catalan) | O(catalan)|Medium | [Approach](https://leetcode.com/problems/generate-parentheses/solutions/4040470/backtracking-beats-90-recursive-explained/)|Recursive, Catalan
 
 ## Trie
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
