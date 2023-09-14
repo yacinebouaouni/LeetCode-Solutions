@@ -83,6 +83,7 @@
 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) | [Code](./Binary-Search/koko_eating_bananas.py) | O(N log M) | O(1) | Medium | [Approach](https://leetcode.com/problems/koko-eating-bananas/solutions/3904582/binary-search-beats-90-easy/) | Binary Search, Array
 2300 | [Successful Pairs of Spells](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) | [Code](./Binary-Search/successful_pairs.py) | O((M+N) log M) | O(N) | Medium | [Approach](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/solutions/3904876/binary-search-python-intuitive/) |Binary Search, Array
 35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=study-plan-v2&envId=top-interview-150) |[Code](./Binary-Search/search_insert_pos.py) | O(log n) | O(1) | Easy | | Binary Search
+34 |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Code](./Binary-Search/find_first_last_element_sorted_ar.py) | O(n) | O(1) |Medium |[Approach](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/4045721/binary-search-beats-95/) | Binary Search, multiple values
 
 ## Breadth-first search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
