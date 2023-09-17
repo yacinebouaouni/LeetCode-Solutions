@@ -121,7 +121,7 @@
 199 |[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) |[Code](./Tree/binary_tree_right_side_view.py)| O(N) | O(N) | Medium |[Approach](https://leetcode.com/problems/binary-tree-right-side-view/solutions/3950173/bfs-iterative-python/) | BFS, Binary Tree
 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) |[Code](./Tree/delete_node_bst.py) | O(log N) | O(log N) | Medium | [Approach](https://leetcode.com/problems/delete-node-in-a-bst/solutions/3954917/recursive-binary-search-tree-python/) | BST
 700 | [Search in a BST](https://leetcode.com/problems/search-in-a-binary-search-tree/?envType=study-plan-v2&envId=leetcode-75) |[Code](./Tree/search_bst.py) | O(log N) | O(log N) | Easy | [Approach](https://leetcode.com/problems/search-in-a-binary-search-tree/solutions/3954309/dfs-beats-96-recursive/?envType=study-plan-v2&envId=leetcode-75) | BST
-
+637 |[Average of Levels in Binary Tree](./Tree/average_levels_binary_tree.py) | O(N) | O(N) | Easy | [Approach](https://leetcode.com/problems/average-of-levels-in-binary-tree/solutions/4057416/bfs-traversal-per-level/) | BFS 
 
 
 
