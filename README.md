@@ -85,6 +85,11 @@
 35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=study-plan-v2&envId=top-interview-150) |[Code](./Binary-Search/search_insert_pos.py) | O(log n) | O(1) | Easy | | Binary Search
 34 |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Code](./Binary-Search/find_first_last_element_sorted_ar.py) | O(logn) | O(1) |Medium |[Approach](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/4045771/binary-search-o-log-n/) | Binary Search, multiple values
 
+## Graph
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+210 | [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/description/?envType=study-plan-v2&envId=top-interview-150) |[Code]() | O(V+E) | O(V+E) | Medium | [Approach](https://leetcode.com/problems/course-schedule-ii/solutions/4057320/topological-sort-kahn-s-beats-99-75/?envType=study-plan-v2&envId=top-interview-150) | Topological Sort, Kahn Algo
+
 ## Breadth-first search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
@@ -93,6 +98,7 @@
 1926 | [Nearest Exit From Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/) | [Code](./BFS/nearest_exit_from_entrance.py) | O(N*M) | O(N*M) | Medium | [Approach](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/solutions/3890960/bfs-beats-99-python-explained/)| BFS, Matrix
 433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/description/?envType=study-plan-v2&envId=top-interview-150) |[Code](./BFS/min_genetic_mutation.py) | O(n^2) | O(n^2) | Medium |[Approach](https://leetcode.com/problems/minimum-genetic-mutation/solutions/4047949/bfs-solution-iterative/?envType=study-plan-v2&envId=top-interview-150) | BFS, String
 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) |[Code](./BFS/surrounded_regions.py) |O(n*m) |O(1) | Medium |[Approach](https://leetcode.com/problems/surrounded-regions/solutions/4053404/bfs-easy-explained/) | BFS, Matrix
+
 
 ## Depth-first search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
