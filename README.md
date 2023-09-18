@@ -57,7 +57,7 @@
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Code](./Linked-List/reverse_ll.py) | O(N) | O(1) | Easy | [Approach](https://leetcode.com/problems/reverse-linked-list/solutions/3936488/two-pointers-beats-95-python/) | Linked List, Two Pointers
 2130 | [Maximum Twin Sum of Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Code](./Linked-List/max_twin_sum_ll.py) | O(N) | O(1) | Medium | [Approach](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/solutions/3936823/solution-with-ll-reversal-optimal-python/) | Linked List
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |[Code](./Linked-List/add_two_numbers.py) | O(max(n1,n2)) | O(max(n1,n2)) | Medium |[Approach](https://leetcode.com/problems/add-two-numbers/solutions/4061389/beats-95-runtime-python/) | Linked List
-
+61 |[Rotate List](https://leetcode.com/problems/rotate-list/description/) |[Code](./Linked-List/rotate_list.py) | O(n) | O(1) |Medium |[Approach](https://leetcode.com/problems/rotate-list/solutions/4061946/easy-intuitive-python-beats-90/) | Linked List
 
 ## Monotonic Stack
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
