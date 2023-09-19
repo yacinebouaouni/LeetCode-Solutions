@@ -254,6 +254,7 @@
 
 ### Binary Search Tree
 * You need to take advantage of the property of the BST by dividing the search space by two and reducing complexity to log n.
+* Always think of inorder and postorder traversal in any solution first.
 
 
 ## Bit Manipulation
