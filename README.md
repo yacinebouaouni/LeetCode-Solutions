@@ -123,6 +123,7 @@
 700 | [Search in a BST](https://leetcode.com/problems/search-in-a-binary-search-tree/?envType=study-plan-v2&envId=leetcode-75) |[Code](./Tree/search_bst.py) | O(log N) | O(log N) | Easy | [Approach](https://leetcode.com/problems/search-in-a-binary-search-tree/solutions/3954309/dfs-beats-96-recursive/?envType=study-plan-v2&envId=leetcode-75) | BST
 637 |[Average of Levels in Binary Tree](./Tree/average_levels_binary_tree.py) | O(N) | O(N) | Easy | [Approach](https://leetcode.com/problems/average-of-levels-in-binary-tree/solutions/4057416/bfs-traversal-per-level/) | BFS 
 
+530 |[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) |[Code](./Tree/min_abs_diff_bst.py) | O(n) |O(1) | Easy | [Approach](https://leetcode.com/problems/minimum-absolute-difference-in-bst/solutions/4065621/inorder-traversal/)|Inorder
 
 
 
