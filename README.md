@@ -125,6 +125,7 @@
 530 |[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) |[Code](./Tree/min_abs_diff_bst.py) | O(n) |O(1) | Easy | [Approach](https://leetcode.com/problems/minimum-absolute-difference-in-bst/solutions/4065621/inorder-traversal/)|Inorder
 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/?envType=study-plan-v2&envId=top-interview-150) |[Code](./Tree/path_sum.py) | O(n) | O(n) | Easy | [Approach](https://leetcode.com/problems/path-sum/solutions/4068900/dfs-solution-beats-98-5/?envType=study-plan-v2&envId=top-interview-150) |DFS
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) |[Code](./Tree/symmetric_tree.py) | O(n) |O(n) |Easy |[Approach](https://leetcode.com/problems/symmetric-tree/solutions/4068807/recursive-approach-python/) | DFS
+103 |[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |[Code](./Tree/binary_tree_zigzag_level_order_traversal.py) | O(n) |O(n) |Medium |[Approach](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/solutions/4068745/recursive-double-ended-queue-python/)| Order Traversal
 
 
 
