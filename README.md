@@ -184,6 +184,7 @@
 1768 |[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/) |[Code](./String/merge_alternately.py)| O(n1+n2) | O(n1+n2) | Easy | [Approach]() | String
 1071 |[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/) |[Code](./String/greatest_common_divisor.py) | O(n) | O(1) | Easy |[Approach](https://leetcode.com/problems/greatest-common-divisor-of-strings/solutions/4007438/easy-pgcd-solution-beats-97-5-no-extra-memory-python/) | PGCD 
 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) |[Code](./String/string_compression.py)| O(n)|O(1) | Medium |[Approach](https://leetcode.com/problems/string-compression/solutions/4011712/linear-time-solution-beats-86-python/) | Iterative
+14 |[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |[Code](./String/longest_common_prefix.py) |O(N*M) | O(M) | Easy |[Approach](https://leetcode.com/problems/longest-common-prefix/solutions/4093259/easy-intuitive-solution/)|String
 
 ## Heap
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
