@@ -19,6 +19,7 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 1679 | [Max Number of K-Sum Pair](https://leetcode.com/problems/max-number-of-k-sum-pairs/description/) | [Code](./Hashmap/max_number_k_sum_pairs.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/max-number-of-k-sum-pairs/solutions/3909166/hashmap-on-beats-98-python/) |Hashmap, Array
+383 |[Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) |[Code](./Hashmap/ransome.py) |O(n) |O(1) |Easy |[Approach](https://leetcode.com/problems/ransom-note/solutions/4096413/hashmap-o-n-time-o-1-space/?envType=study-plan-v2&envId=top-interview-150)|Counter
 
 ## Two Pointers
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
