@@ -166,8 +166,7 @@
 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [Code](./Intervals/insert_interval.py) | O(N) | O(N) | Medium | [Approach](https://leetcode.com/problems/insert-interval/solutions/3973683/greedy-merge-beats-92-python/) | Greedy, Sort
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Code](./Intervals/merge_intervals.py) | O(NlogN) | O(N) | Medium | [Approach](https://leetcode.com/problems/merge-intervals/solutions/3977437/greedy-sort-beats-97-easy-python/) | Greedy, Sort
 1851 | [Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query/description/) |[Code](./Intervals/min_interval_include_query.py) | O(n*qlogq) | O(n) | Hard |[Approach](https://leetcode.com/problems/minimum-interval-to-include-each-query/solutions/3977707/binary-search-sorting-ez-python/) | Binary Search, Sort
-
-
+228 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/) |[Code](./Intervals/summary_ranges.py) |O(n) |O(n) |Easy |[Approach]https://leetcode.com/problems/summary-ranges/solutions/4102601/intervals-easy-solution/() | Intervals
 
 ## Greedy
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
