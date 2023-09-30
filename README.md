@@ -22,6 +22,7 @@
 383 |[Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) |[Code](./Hashmap/ransome.py) |O(n) |O(1) |Easy |[Approach](https://leetcode.com/problems/ransom-note/solutions/4096413/hashmap-o-n-time-o-1-space/?envType=study-plan-v2&envId=top-interview-150)|Counter
 290 |[Word Pattern](https://leetcode.com/problems/word-pattern/description/) |[Code](./Hashmap/word_pattern.py) |O(n) |O(1) |Easy |[Approach](https://leetcode.com/problems/word-pattern/solutions/4098037/hashmap-beats-95-runtime/) |Hashmap
 202 |[Happy Number](https://leetcode.com/problems/happy-number/description/) |[Code](./Hashmap/happy_number.py) |O(logn) |O(logn) |Easy |[Approach](https://leetcode.com/problems/happy-number/solutions/4107242/hashmap-beats-95-runtime/)
+219 |[Contains Duplicate 2](https://leetcode.com/problems/contains-duplicate-ii/description/) |[Code](./Hashmap/contains_duplicate_2.py) |O(n) |O(n) |Easy |[Approach](https://leetcode.com/problems/contains-duplicate-ii/solutions/4111399/hashmap-o-n-time-python/) | Hashmap
 ## Two Pointers
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
