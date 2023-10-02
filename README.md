@@ -134,7 +134,7 @@
 103 |[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) |[Code](./Tree/binary_tree_zigzag_level_order_traversal.py) | O(n) |O(n) |Medium |[Approach](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/solutions/4068745/recursive-double-ended-queue-python/)| Order Traversal
 114 |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/?envType=study-plan-v2&envId=top-interview-150) |[Code](./Tree/flatten_binary_tree_ll.py) |O(N) |O(H) |Medium |[Approach](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/solutions/4084856/beats-99-8-runtime-python/?envType=study-plan-v2&envId=top-interview-150) |Binary Tree, Linked List
 129 |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |[Code](./Tree/sum_root_leaf.py) |O(n) |O(H) |Medium |[Approach](https://leetcode.com/problems/sum-root-to-leaf-numbers/solutions/4096361/recursive-approach-dfs-python/) |DFS
-
+106 |[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [Code](./Tree/construct_bt_inorder_postorder.py) |O(n) |O(H)| Medium |[Approach](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/solutions/4116805/recursive-solution-python/)| Recursive
  
 
 
