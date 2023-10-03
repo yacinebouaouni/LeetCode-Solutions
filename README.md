@@ -23,6 +23,11 @@
 290 |[Word Pattern](https://leetcode.com/problems/word-pattern/description/) |[Code](./Hashmap/word_pattern.py) |O(n) |O(1) |Easy |[Approach](https://leetcode.com/problems/word-pattern/solutions/4098037/hashmap-beats-95-runtime/) |Hashmap
 202 |[Happy Number](https://leetcode.com/problems/happy-number/description/) |[Code](./Hashmap/happy_number.py) |O(logn) |O(logn) |Easy |[Approach](https://leetcode.com/problems/happy-number/solutions/4107242/hashmap-beats-95-runtime/)
 219 |[Contains Duplicate 2](https://leetcode.com/problems/contains-duplicate-ii/description/) |[Code](./Hashmap/contains_duplicate_2.py) |O(n) |O(n) |Easy |[Approach](https://leetcode.com/problems/contains-duplicate-ii/solutions/4111399/hashmap-o-n-time-python/) | Hashmap
+1 |[Two Sum](https://leetcode.com/problems/two-sum/description/) |[Code](./Hashmap/two_sum.py) |O(n) |O(n) |Easy |[Approach](https://leetcode.com/problems/two-sum/solutions/4126673/hashmap-solution/)| Array
+
+
+
+
 ## Two Pointers
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
