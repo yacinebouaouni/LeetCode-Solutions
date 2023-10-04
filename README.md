@@ -4,6 +4,11 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/?envType=study-plan-v2&envId=leetcode-75) | [Code](./Array/kids_greatest_num_candies.py) | O(n) | O(1) | Easy | [Approach](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/4014826/tc-o-n-sc-o-1-python-explained/?envType=study-plan-v2&envId=leetcode-75) | Iterative
+80 | [Remove Duplicated from Sorted Array 2](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |[Code](./Array/remove_duplicated_sorted_array2.py) |O(n) |O(1) |Medium |[Approach](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/solutions/4131083/beats-95-runtime-o-1-space/) | Iterative
+
+
+
+
 
 ## Sliding Window
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Description          | Note| 
